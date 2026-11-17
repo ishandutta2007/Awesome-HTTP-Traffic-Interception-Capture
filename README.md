@@ -2,7 +2,7 @@
 
 # Awesome-HTTP-Traffic-Interception-Capture
 
-# Top HTTP Traffic Interception & Capture Ecosystem
+## Top HTTP Traffic Interception & Capture Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on MITM Proxying, Request Replay & Self-Hosted Security Workbenches*  
