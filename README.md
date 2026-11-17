@@ -73,7 +73,7 @@ Market dynamics reflect a **moderately fragmented landscape**: while foundationa
 
 ## 💻 Open-Source GitHub Projects
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |---------|------------|-------------|
 | **[mitmproxy](https://github.com/mitmproxy/mitmproxy)** | [![Stars](https://img.shields.io/github/stars/mitmproxy/mitmproxy?style=social&color=white)](https://github.com/mitmproxy/mitmproxy/stargazers) | **The standard open-source scriptable MITM proxy for automated interception and capture.** MIT licensed, Python. Provides CLI (`mitmproxy`), web UI (`mitmweb`), and headless (`mitmdump`) interfaces with Python addon extensions for programmatic flow tampering. |
 | **[bettercap](https://github.com/bettercap/bettercap)** | [![Stars](https://img.shields.io/github/stars/bettercap/bettercap?style=social&color=white)](https://github.com/bettercap/bettercap/stargazers) | **Swiss army knife for 802.11, BLE, IPv4, and IPv6 network reconnaissance and MITM attacks.** Written in Go with modular interactive packet capture, HTTPS proxy interception, and active protocol credential sniffers. |
@@ -97,7 +97,7 @@ Contributions are warmly welcomed! Help keep this curated ecosystem fresh and up
 
 1. 🍴 Fork the repository.
 2. 📝 Add or update entries in [README.md](file:///C:/Users/ishan/Documents/Projects/Awesome-HTTP-Traffic-Interception-Capture/README.md) following the existing format and star-sorted order.
-3. 🏷️ Ensure links, star badges, and precise pricing/limits are verified.
+3. 🏷️ Ensure links, Stars_Badges, and precise pricing/limits are verified.
 4. 🚀 Submit a PR with a concise summary of the changes.
 
 ---
